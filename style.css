@@ -1,0 +1,22 @@
+body{
+    font-family: Arial, sans-serif;
+    text-align: center;
+    margin: 0;
+    padding: 0;
+    background-color:peru;
+}
+
+h1{
+    color:brown;
+}
+
+h2{
+    color:coral;
+}
+
+canvas{
+    display: block;
+    margin: 20px auto;
+    background-color:cadetblue;
+    border: 2px solid rgb(129, 93, 13);
+}
